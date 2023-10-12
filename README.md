@@ -18,6 +18,11 @@ pip3 install -r requirements.txt
 
 **建议使用 Pycharm 和虚拟环境进行配置。**
 
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
 配置好环境之后，可以在终端中执行以下命令：
 
 ```bash
