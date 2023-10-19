@@ -2,7 +2,7 @@
 
 此项目仅用于备份数据到 Github。
 
-如需在本地端调试或提交代码，请[下载](https://github.com/chillcicada/GlimmerU/archive/refs/heads/master.zip)本项目源代码后在**对应目录**下执行以下命令：
+如需在本地端调试或提交代码，请[下载](https://github.com/GlimmerU/GlimmerU.github.io/archive/refs/heads/main.zip)并解压本项目源代码后在**对应目录**下执行以下命令：
 
 ```bash
 pip3 install -r requirements.txt
@@ -11,15 +11,15 @@ pip3 install -r requirements.txt
 或者，你也可以选择完全在终端克隆并配置此项目（注意调用终端的目录z）：
 
 ```bash
-git clone https://github.com/chillcicada/GlimmerU.git
-cd GlimmerU
+git clone git@github.com:GlimmerU/GlimmerU.github.io.git
+cd GlimmerU.github.io
 pip3 install -r requirements.txt
 ```
 
 **建议使用 Pycharm 和虚拟环境进行配置。**
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 
@@ -27,6 +27,12 @@ source venv/bin/activate
 
 ```bash
 mkdocs serve
+```
+
+如果需要构建静态网页，可以执行以下命令：
+
+```bash
+mkdocs build
 ```
 
 即可在本地端( http://127.0.0.1:8000/ )调试和预览，默认端口为 8000。

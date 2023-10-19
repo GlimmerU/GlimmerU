@@ -6,7 +6,7 @@
 
 ## 日志
 
-<p align="center">未来一切投稿者及投稿日志将会在这里实时更新。</p>
+<p style="text-align:center">未来一切投稿者及投稿日志将会在这里实时更新。</p>
 
 你可以[在这](contributors.md)看到本项目的所有贡献者。
 
@@ -15,6 +15,10 @@
 
 ??? 更新日志
     <p align="center"><del>真的有人会看这个吗</del></p>
+
+    2023/10/19: 修改 README.md 等相关文件
+
+    2023/10/12: 重新配置 git 文件树
 
     2023/10/03: 添加了评论功能
     
@@ -30,4 +34,4 @@
     
     2023/09/11: 将所有的文档都上传并挂载到 github 作为数据备份
 
-<p align="right">本站访客数 <span id="busuanzi_value_site_nv"></span> 人次</p>
+<p style="text-align:right">本站访客数 <span id="busuanzi_value_site_nv"></span> 人次</p>

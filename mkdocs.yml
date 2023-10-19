@@ -95,8 +95,8 @@ nav:
           - 数学: "courses/SBC/Math/index.md"
           - 物理: "courses/SBC/Physics/index.md"
           - 化学: "courses/SBC/Chemistry/index.md"
-  - 技能培训:
-      - 介绍: "skills/index.md"
-      - Markdown 语法指北: "skills/markdown.md"
+  - 博客文章:
+      - 介绍: "blogs/index.md"
+      - Markdown 语法指北: "blogs/markdown.md"
   - 资源链接:
       - 介绍: "resources/index.md"

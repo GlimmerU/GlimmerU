@@ -1,4 +1,6 @@
 > 这是一篇 markdown 入门指南，供读者快速上手在 mkdocs, valaxy, github 等框架或平台上编写 markdown 文档。
+> 
+> 如果您有编辑页面的需求或是其他计算机排版需求，但尚不熟悉 markdown 语法的话，本篇文章非常适合您快速上手 markdown。
 
 ## 什么是 markdown
 
@@ -219,6 +221,3 @@ Markdown 使用反斜杠来插入一些在语法中有其它意义的符号。
 ```markdown
 \*这是一个普通的星号\*
 ```
-
-## markdown 的扩展语法
-
