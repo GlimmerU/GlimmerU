@@ -21,4 +21,4 @@
 |   江宇萱   | yuxuan-j22@mails.tsinghua.edu.cn |
 |   沈王瑾   |  shenwj22@mails.tsinghua.edu.cn  |
 
-如果你有任何问题，欢迎通过右键的方式联系我们，我们将尽快回复你。
+如果你有任何问题，欢迎通过邮件的方式联系我们，我们将尽快回复你。
