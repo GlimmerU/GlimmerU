@@ -221,3 +221,18 @@ Markdown 使用反斜杠来插入一些在语法中有其它意义的符号。
 ```markdown
 \*这是一个普通的星号\*
 ```
+## mkdocs 对 markdown 的扩展语法
+
+```markdown
+!!! tags
+    用三个英文感叹号加 tags 可制作文本卡片
+    
+    卡片内容文本格式同 markdown 格式，但要求前导四个空格(即一次 tab 缩进)
+
+    tags 为 warning, tips 等时有特殊效果，为文本时即文本效果
+```
+
+```markdown
+??? tags
+    用三个英文问号可实现可折叠的卡片，其余同上者
+```

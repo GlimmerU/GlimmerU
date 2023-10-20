@@ -4,7 +4,7 @@
 
 主讲：[史政超](mailto:shizc22@mails.tsinghua.edu.cn)
 
-[PDF 文档](./lectures/elements+reactions.pdf)
+<a href="./lectures/elements+reactions.pdf" download>下载 PDF 文档</a>
 
 ??? "or 展开阅读 PDF"
     <br/><iframe src="./lectures/elements+reactions.pdf" width="100%" height="800px"  border="0" margin="0" padding="0"></iframe>
@@ -13,7 +13,7 @@
 
 主讲：[赵卓凡](mailto:zhaozf22@mails.tsinghua.edu.cn)
 
-[PDF 文档](./lectures/thermochemistry+electrochemistry.pdf)
+<a href="./lectures/thermochemistry+electrochemistry.pdf" download target="_blank">下载 PDF 文档</a>
 
 ??? "or 展开阅读 PDF"
     <br /><iframe src="./lectures/thermochemistry+electrochemistry.pdf" width="100%" height="800px" border="0" margin="0" padding="0"></iframe>
