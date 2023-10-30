@@ -8,6 +8,12 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 
 Markdown 的语法全由一些符号组成，这些符号经过精挑细选，其作用一目了然。比如在文字两旁加上星号，看起来就像*强调*。Markdown 的列表看起来，嗯，就是列表。Markdown 的区块引用看起来就真的像是引用一段文字，就像你曾在电子邮件中见过的那样。
 
+### markdown 文件的后缀名
+
+Markdown 文件的后缀名为 .md，例如在项目中最为常见的说明文件 README.md。
+
+除此之外，Markdown 文件的后缀名还有 .markdown 和 .mdown 等。
+
 ## 为什么要使用 markdown
 
 Markdown 的语法简洁明了、学习容易，而且功能比纯文本更强，因此有很多人用它写博客。世界上最流行的博客平台 WordPress 和大型 CMS 如 Drupal、Movable Type 都能很好地支持 Markdown。甚至 GitHub 和 GitBook 等网站也能很好地支持 Markdown。除此之外，Markdown 也能被转换为 HTML、LaTeX 等格式，所以它也可以很好地满足其他场景的书写需求。

@@ -28,6 +28,10 @@ theme:
     - navigation.tabs
     - navigation
     - navigation.top
+    - navigation.footer
+
+  font:
+    code: Jetbrains Mono
 
 markdown_extensions:
   - pymdownx.arithmatex:
